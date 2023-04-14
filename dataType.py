@@ -71,6 +71,8 @@ print (c)
 a = str(1)     # a will be "1" 
 print (a)
 
+a = str(2) + str(3.3)
+print(a)
 # Data Type Conversion Functions
 # int(x [,base]), long(x [,base]), float(x), complex(real [,imag]), str(x), repr(x), eval(str), tuple(s), list(s), set(s), dict(d), 	
 # frozenset(s), chr(x), unichr(x), ord(x), hex(x), oct(x)
